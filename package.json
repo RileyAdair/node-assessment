@@ -17,7 +17,10 @@
   },
   "homepage": "https://github.com/DevMountain/node-assessment-in-dev#readme",
   "dependencies": {
-    "express": "^4.15.2",
-    "body-parser": "^1.17.1"
-  }
+    "body-parser": "^1.18.1",
+    "cors": "^2.8.4",
+    "express": "^4.15.4",
+    "express-session": "^1.15.5"
+  },
+  "keywords": []
 }
